@@ -1,1 +1,1 @@
-# vxt-sandbox-electron-machineInstall
+# vxt-sandbox-electron-machine
